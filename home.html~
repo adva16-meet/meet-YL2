@@ -9,7 +9,7 @@
 	}
 	</style>
 	</head>
-	<body class="yellowbg" >
+	<body background="imp.jpg" >
 		<h1 class=headline >This is my website    </h1>
 		<p>Hello to you<br>Im Adva Haetzni                      </p>
 	<img src="adva.jpg" width="300">    <br><br>
