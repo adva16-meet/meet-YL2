@@ -1,0 +1,16 @@
+.yellowbg{
+background-color: yellow;
+text-align:center;
+}
+
+
+.headline{
+color: #FF00FF;
+}
+
+.class1{
+background-color:#990099;
+text-align:center
+}
+
+
